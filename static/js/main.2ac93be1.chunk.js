@@ -1,0 +1,2 @@
+(this["webpackJsonparc-development"]=this["webpackJsonparc-development"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(0);var c=n(3),r=n.n(c),s=n(1);var o=function(){return Object(s.jsx)("div",{className:"App",children:"Hello!"})};r.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.2ac93be1.chunk.js.map
